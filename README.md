@@ -7,8 +7,9 @@
 </p>
 
 <h2>Result</h2>
+This is what I came up with based on the mockup.
 <h3>On Desktop and IPad</h3>
-<p>These images show how the website will look on Desktop and iPad.</p>
+<p>These images show how my website will look on Desktop and iPad.</p>
 <p align="center">
   <img align="left" src="/images/my-portfolio_1.png" width="400"/> 
   <img src="/images/my-portfolio_2.png" width="400"/>
