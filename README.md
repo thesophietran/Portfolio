@@ -12,7 +12,7 @@
 <p></p>
 <h2>Result</h2>
 <p>This is my result based on the mockup.</p>
-<h3>On Desktop and IPad</p>
+<h3>On Desktop and IPad</h3>
 <p>These images show how the website will look on Desktop and iPad.</p>
 <p align="center">
   <img align="left" src="/images/my-portfolio_1.png" width="400"/> 
