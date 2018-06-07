@@ -9,14 +9,14 @@
 <h2>Result</h2>
 This is what I came up with based on the mockup.
 <h3>On Desktop and IPad</h3>
-<p>These images show how my website will look on Desktop and iPad.</p>
+<p>These images show how my website looks on Desktop and iPad.</p>
 <p align="center">
   <img align="left" src="/images/my-portfolio_1.png" width="400"/> 
   <img src="/images/my-portfolio_2.png" width="400"/>
 </p>
 
 <h3>On Mobile Devices</h3>
-<p>The following images show how it will appear on mobile devices.</p>
+<p>The following images show how it appears on mobile devices.</p>
 <p align="center">
   <img align="left" src="/images/on-nexus-5_1.png" width="300"/>
   <img src="/images/on-nexus-5_2.png" width="300"/> 
