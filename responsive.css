@@ -1,0 +1,13 @@
+/* align 3 figures in a row when the screen gets 550px or bigger */
+ 
+@media screen and (min-width: 700px) {
+    .row {
+        display: flex;
+    }
+    .col {
+        flex: 33.33%;
+        padding: 5px; 
+    }
+}
+
+
