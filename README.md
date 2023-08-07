@@ -7,7 +7,7 @@
 </p>
 
 ## Result
-This is what I came up with based on the mockup https://loanttran.github.io/UFEND-Project1-Portfolio/ 
+This is what I came up with based on the mockup https://thesophietran.github.io/Portfolio/
 ### On Desktop and IPad
 <p>These images show how my website looks on Desktop and iPad.</p>
 <p align="center">
